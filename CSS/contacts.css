@@ -1,0 +1,58 @@
+
+article{
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navigation{
+    border: solid black;
+}
+
+h1{
+    text-align: center;
+}
+
+nav{
+    box-sizing: border-box;
+}
+
+.websiteName{
+    text-align: center;
+}
+
+
+.nav-list{
+    text-align: center;
+    list-style: none;
+}
+
+.nav-list > li{
+    padding: 1%;
+    display: inline;
+}
+
+/* container */
+.container{
+    border: solid black;
+    justify-content: flex-start;
+    width: 50%;
+    height: auto;
+}
+
+.in-touch{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.in-touch > a{
+    font-size: 2em;
+}
+
+/* socmeds2 */
+.socmeds2{
+    list-style: none;
+    padding: 1%;
+    display: inline-block;
+    text-align: center;
+}
